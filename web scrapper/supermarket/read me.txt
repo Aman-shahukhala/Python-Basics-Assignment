@@ -1,1 +1,0 @@
-virtual super market with price and quantity for every article
